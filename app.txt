@@ -2,7 +2,7 @@
     {
         "id": "1",
         "ads_data": "{\"sdk_key\":\"fvv\",\"banner_ad_id\":\"cc\",\"inter_ad_id\":\"vcc\",\"native_ad_id\":\"vc\"}",
-        "download_url": "https:\/\/example.com\/download.apk",
+        "download_url": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjrJ1CjB5A9-NuoIfX-pdjWu7Dx1B_fvjPTlLtwhihCUhC1f6MVz_n2ShGKg4OiqUdpyF_LY1o2fYwpfawMTiRQBmLysjQgaYGN0iKyvbBPhOlS8P-w7TNGF76KBjywywegxvLDJ46tVZF-4T0ooY_4EK9wVNhAPKuApBV6a4l8Vaby5t7bW4FG7B-XdBdz\/s1254\/1000599281.png",
         "web_url": "https:\/\/example.com",
         "app_version": "1",
         "message": "New update available!",
