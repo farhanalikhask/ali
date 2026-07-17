@@ -9,7 +9,7 @@
         "message_url": "https:\/\/t.me\/criconeapp",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.mystic.craftz.livepremuim.crz",
         "bottom_visible": "no",
-        "msg_visible": "no",
+        "msg_visible": "yes",
         "score_visible": "yes",
         "default_link": ""
     }
